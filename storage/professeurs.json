@@ -1,0 +1,17 @@
+[
+  {
+    "photo": "../api/images/pro1.jpeg",
+    "title": "Professeur Moustacheur",
+    "content": "Contenu du premier utilisateur"
+  },
+  {
+    "photo": "../api/images/pro2.jpeg",
+    "title": "Professeur Purrfesseur",
+    "content": "Contenu du deuxieme utilisateur"
+  },
+  {
+    "photo": "../api/images/pro3.jpeg",
+    "title": "Professeur Miaouglotteur",
+    "content": "Contenu du troisieme utilisateur"
+  }
+]
