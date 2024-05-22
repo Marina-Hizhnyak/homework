@@ -1,16 +1,16 @@
 [
   {
-    "photo": "../api/images/pro1.jpeg",
+    "photo": "/images/pro1.jpeg",
     "nom": "Apprentissage de la Langue Féline",
     "description": "Le cours 'Apprentissage de la Langue Féline' est un programme unique qui vous plonge dans le monde de la langue des chats. Dans le cadre de ce cours, vous découvrirez les bases de la langue féline, ses dialectes, ses miaulements, ses ronronnements et autres sons utilisés par les chats pour communiquer. Vous apprendrez également les gestes, la mimique et les signaux comportementaux que les chats utilisent pour transmettre des informations."
   },
   {
-    "photo": "../api/images/pro1.jpeg",
+    "photo": "/images/pro1.jpeg",
     "nom": "Le Cours de Compréhension du Profond Sens de l'Absurdité",
     "description": "Explorez le sens de la vie du point de vue de l'absurde, en développant le sens de l'humour et la capacité à ne pas prendre tout trop au sérieux."
   },
   {
-    "photo": "../api/images/pro1.jpeg",
+    "photo": "/images/pro1.jpeg",
     "nom": "L'Art de la Conversation avec les Plantes",
     "description": "Découvrez les secrets de la communication avec le règne végétal en apprenant à parler le langage des plantes, à interpréter leurs signaux et à établir des relations amicales avec vos amis verts."
   }

@@ -5,12 +5,12 @@
     "content": "Contenu du premier utilisateur"
   },
   {
-    "photo": "/public/images/pro2.jpeg",
+    "photo": "/images/pro2.jpeg",
     "title": "Professeur Purrfesseur",
     "content": "Contenu du deuxieme utilisateur"
   },
   {
-    "photo": "public/images/pro3.jpeg",
+    "photo": "/images/pro3.jpeg",
     "title": "Professeur Miaouglotteur",
     "content": "Contenu du troisieme utilisateur"
   }

@@ -1,7 +1,7 @@
 export const nav = `
 <nav class="navigation">
   <li class="logo">
-      <img class="logo-image" src="../api/images/logo1.jpeg" alt="logo">
+      <img class="logo-image" src="/images/logo1.jpeg" alt="logo">
     <br>
   </li>
   <li>
