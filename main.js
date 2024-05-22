@@ -16,4 +16,3 @@ document.querySelector("#app").innerHTML = `
      </div>
   ${footer}
   `;
-
